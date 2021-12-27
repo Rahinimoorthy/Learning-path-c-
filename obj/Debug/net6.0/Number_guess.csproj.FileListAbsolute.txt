@@ -1,0 +1,15 @@
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\obj\Debug\net6.0\Number_guess.csproj.AssemblyReference.cache
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\obj\Debug\net6.0\Number_guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\obj\Debug\net6.0\Number_guess.AssemblyInfoInputs.cache
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\obj\Debug\net6.0\Number_guess.AssemblyInfo.cs
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\obj\Debug\net6.0\Number_guess.csproj.CoreCompileInputs.cache
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\bin\Debug\net6.0\Number_guess.exe
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\bin\Debug\net6.0\Number_guess.deps.json
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\bin\Debug\net6.0\Number_guess.runtimeconfig.json
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\bin\Debug\net6.0\Number_guess.dll
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\bin\Debug\net6.0\ref\Number_guess.dll
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\bin\Debug\net6.0\Number_guess.pdb
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\obj\Debug\net6.0\Number_guess.dll
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\obj\Debug\net6.0\ref\Number_guess.dll
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\obj\Debug\net6.0\Number_guess.pdb
+C:\Users\Rahini\Documents\PUBLIC SAPIENTS\Learning path\Number_guess\obj\Debug\net6.0\Number_guess.genruntimeconfig.cache
